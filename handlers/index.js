@@ -1,3 +1,3 @@
 export function index(request, reply) {
-	reply({test:'index'});
+	reply({test:'index docker'});
 }
